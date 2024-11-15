@@ -1,2 +1,2 @@
 # views.py
-new repo
+new repositry
